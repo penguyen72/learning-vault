@@ -4,139 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "f6cc087bc035319e",
+        "id": "e839511d9891df32",
         "type": "tabs",
         "children": [
           {
-            "id": "96576e90a4fc31b5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "109a303affac695b",
+            "id": "e8402c5d1bec9594",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cooking Recipes/Lobster Mac and Cheese.md",
+                "file": "Web Authentication/JWT Token.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e88b13935bdeabdd",
+            "id": "f5d2c96c838fd71d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Authentication/Authentication.md",
+                "file": "Web Development/Zod.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1676494a022a5469",
+            "id": "cd357d1be049f69d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Authentication/Authentication.md",
+                "file": "Web Development/tRPC.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "95e15c6a32682e20",
+            "id": "056384935b64b02b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Authentication/Authentication vs Authorization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c8f6922b2938d36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Authentication/Token-Based Authentication.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e9e1be8993e87e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Authentication/Token-Based Authentication.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5fc7e33da37c535",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75510923bc344fbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cooking Recipes/Quesa Birria Tacos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f82cc8f28186536b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cooking Recipes/Pineapple Buns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ef2fcf39da1c2f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cooking Recipes/Quesa Birria Tacos.md",
+                "file": "DSA/Binary Search.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -165,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Food",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "DSA/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "DSA/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,11 +162,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "DSA/Untitled.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -263,23 +184,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5fc7e33da37c535",
+  "active": "bb25ddbf7195d002",
   "lastOpenFiles": [
-    "Web Authentication/Authorization.md",
+    "DSA/Binary Search.md",
+    "DSA/Untitled.md",
+    "Web Development/tRPC.md",
+    "DSA",
+    "Web Development/Zod.md",
+    "README.md",
+    "Web Authentication/JWT Token.md",
+    "Web Development",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
     "Web Authentication/Authentication.md",
     "Cooking Recipes/Quesa Birria Tacos.md",
-    "Web Authentication/JWT Token.md",
-    "Web Authentication/Session-Based Authentication.md",
-    "Web Authentication/Token-Based Authentication.md",
     "Web Authentication/Authentication vs Authorization.md",
-    "J.md",
+    "Web Authentication/Authorization.md",
+    "Web Authentication/Token-Based Authentication.md",
     "Cooking Recipes/Lobster Mac and Cheese.md",
+    "Web Authentication/Session-Based Authentication.md",
+    "Cooking Recipes/Milk Bread.md",
     "Cooking Recipes/Pineapple Buns.md",
-    "README.md",
+    "J.md",
     "Web Authentication",
     "Cooking Recipes",
     "Cooking.md",
-    "Untitled.canvas",
     "Graduate Algorithms/Cooking.md",
     "Graduate Algorithms"
   ]

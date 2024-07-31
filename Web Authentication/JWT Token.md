@@ -12,6 +12,8 @@ The token contains three parts:
 - The signature is used to validate that the token has not been tempered with or modified
 - The signature is created by hashing the header and payload with a secret known to the server
 - If the payload has been tempered with, then the signature produced when validating the token will be incorrect
+>This
+>is
 
 ```json
 // JWT Token Signature

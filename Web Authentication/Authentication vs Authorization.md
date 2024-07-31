@@ -1,3 +1,8 @@
+---
+tags:
+  - Authentication
+  - Authorization
+---
 [[Authentication]] always comes before [[Authorization]]
 
 A user should be valid before they are granted access to resources based on their authentication level.

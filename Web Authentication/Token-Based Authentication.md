@@ -1,4 +1,4 @@
-#Authentication 
+#Authentication
 
 Relies on a client-side mechanism that uses self-contained tokens to store and transmit user information.
 ### Workflow
