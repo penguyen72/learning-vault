@@ -4,59 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "e839511d9891df32",
+        "id": "96538f88ed3e286f",
         "type": "tabs",
         "children": [
           {
-            "id": "e8402c5d1bec9594",
+            "id": "e938ea4ff314f181",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Authentication/JWT Token.md",
+                "file": "Technologies/Grafana.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f5d2c96c838fd71d",
+            "id": "d490d064e0b7166b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Zod.md",
+                "file": "Technologies/Ruff.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cd357d1be049f69d",
+            "id": "dd11bc695b258bf5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/tRPC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "056384935b64b02b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/Binary Search.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Food",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,13 +143,10 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DSA/Untitled.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,32 +163,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb25ddbf7195d002",
+  "active": "dd11bc695b258bf5",
   "lastOpenFiles": [
-    "DSA/Binary Search.md",
-    "DSA/Untitled.md",
-    "Web Development/tRPC.md",
-    "DSA",
-    "Web Development/Zod.md",
-    "README.md",
-    "Web Authentication/JWT Token.md",
-    "Web Development",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
-    "Web Authentication/Authentication.md",
-    "Cooking Recipes/Quesa Birria Tacos.md",
     "Web Authentication/Authentication vs Authorization.md",
-    "Web Authentication/Authorization.md",
+    "Web Authentication/Authentication.md",
     "Web Authentication/Token-Based Authentication.md",
-    "Cooking Recipes/Lobster Mac and Cheese.md",
     "Web Authentication/Session-Based Authentication.md",
+    "Web Authentication/JWT Token.md",
+    "Web Authentication/Authorization.md",
+    "Technologies/Ruff.md",
+    "Technologies/Grafana.md",
+    "Technologies/ESLint.md",
+    "Concepts/Linting.md",
+    "Concepts",
+    "Ruff Speed Comparison.png",
+    "Web Development/MongoDB.md",
+    "Technologies",
+    "Web Development/Mongoose.md",
+    "Web Development/ODM.md",
+    "Web Development/ORM.md",
+    "Web Development/Prisma ORM.md",
+    "Web Development/Prisma vs Mongoose.md",
+    "Web Development/Zod.md",
+    "Web Development/tRPC.md",
+    "Databases/CRUD.md",
+    "Databases",
+    "README.md",
+    "Cooking Recipes/Quesa Birria Tacos.md",
+    "Cooking Recipes/Lobster Mac and Cheese.md",
+    "Web Development",
+    "DSA/Untitled.md",
+    "DSA/Binary Search.md",
+    "DSA",
     "Cooking Recipes/Milk Bread.md",
-    "Cooking Recipes/Pineapple Buns.md",
     "J.md",
     "Web Authentication",
     "Cooking Recipes",
-    "Cooking.md",
-    "Graduate Algorithms/Cooking.md",
+    "Untitled.canvas",
     "Graduate Algorithms"
   ]
 }

@@ -4,5 +4,5 @@
 - Who are you?
 
 There two main ways to do user authentication on the web:
-- Session-Based Authentication
-- 
+- [[Session-Based Authentication]]
+- [[Token-Based Authentication]]
