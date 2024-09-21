@@ -4,39 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "96538f88ed3e286f",
+        "id": "7141647e8ad9084b",
         "type": "tabs",
         "children": [
           {
-            "id": "e938ea4ff314f181",
+            "id": "614825de71faaac1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technologies/Grafana.md",
+                "file": "Binary Search.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "d490d064e0b7166b",
+            "id": "d69153bf7ece4a1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technologies/Ruff.md",
+                "file": "04 - Personal Notes/Wedding.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "dd11bc695b258bf5",
+            "id": "bebf41b4e616a33a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Default Template.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -69,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "virtual",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/Default Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/Default Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Templates/Default Template.md"
+              }
             }
           }
         ]
@@ -163,43 +174,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd11bc695b258bf5",
+  "active": "bb25ddbf7195d002",
   "lastOpenFiles": [
-    "Web Authentication/Authentication vs Authorization.md",
-    "Web Authentication/Authentication.md",
-    "Web Authentication/Token-Based Authentication.md",
-    "Web Authentication/Session-Based Authentication.md",
-    "Web Authentication/JWT Token.md",
-    "Web Authentication/Authorization.md",
-    "Technologies/Ruff.md",
-    "Technologies/Grafana.md",
-    "Technologies/ESLint.md",
-    "Concepts/Linting.md",
-    "Concepts",
+    "Authentication.md",
+    "04 - Personal Notes/Wedding.md",
+    "04 - Personal Notes/Obsidian Notes Examples.md",
+    "Delayed Rewards.md",
+    "Binary Search.md",
+    "02 - Computer Science/03.04 - Coding Practices/Stacked PRs.md",
+    "Grafana.md",
+    "Templates/Default Template.md",
+    "01 - Cooking/Quesa Birria Tacos.md",
+    "01 - Cooking/Milk Bread.md",
+    "01 - Cooking/Lobster Mac and Cheese.md",
+    "01 - Cooking/Banh Bao.md",
+    "Markov Decision Processes.md",
     "Ruff Speed Comparison.png",
-    "Web Development/MongoDB.md",
-    "Technologies",
-    "Web Development/Mongoose.md",
-    "Web Development/ODM.md",
-    "Web Development/ORM.md",
-    "Web Development/Prisma ORM.md",
-    "Web Development/Prisma vs Mongoose.md",
-    "Web Development/Zod.md",
-    "Web Development/tRPC.md",
-    "Databases/CRUD.md",
-    "Databases",
+    "Exploiting AWS Lambda.md",
+    "Python Virtual Environments.md",
+    "Server Side Rendering.md",
+    "Untitled.md",
     "README.md",
-    "Cooking Recipes/Quesa Birria Tacos.md",
-    "Cooking Recipes/Lobster Mac and Cheese.md",
-    "Web Development",
-    "DSA/Untitled.md",
-    "DSA/Binary Search.md",
-    "DSA",
-    "Cooking Recipes/Milk Bread.md",
-    "J.md",
-    "Web Authentication",
-    "Cooking Recipes",
-    "Untitled.canvas",
-    "Graduate Algorithms"
+    "Mongoose.md",
+    "Session-Based Authentication.md",
+    "Token-Based Authentication.md",
+    "Prisma vs Mongoose.md",
+    "ESLint.md",
+    "Server Actions vs Route Handlers.md",
+    "Server Actions.md",
+    "ORM.md",
+    "04 - Personal Notes",
+    "Templates",
+    "999 - Attachments",
+    "03 - Georgia Tech/04.01 - Reinforcement Learning",
+    "03 - Georgia Tech",
+    "02 - Computer Science/03.05 - Learnings",
+    "02 - Computer Science/03.05 - Research Papesr",
+    "02 - Computer Science/03.03 - DSA",
+    "02 - Computer Science/03.02 - System Design",
+    "02 - Computer Science/03.01 - Technologies",
+    "Untitled.canvas"
   ]
 }
