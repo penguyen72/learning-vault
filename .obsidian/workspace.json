@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "7141647e8ad9084b",
+        "id": "6d28e14b3ab54bfb",
         "type": "tabs",
         "children": [
           {
-            "id": "614825de71faaac1",
+            "id": "a20c2a0c99f01ca4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Binary Search.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d69153bf7ece4a1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Personal Notes/Wedding.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bebf41b4e616a33a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Default Template.md",
+                "file": "Q-networks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "virtual",
+                "query": "Contin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Default Template.md",
+                "file": "Q-networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Default Template.md",
+                "file": "Q-networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Default Template.md"
+                "file": "Q-networks.md"
               }
             }
           }
@@ -174,35 +147,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb25ddbf7195d002",
+  "active": "a20c2a0c99f01ca4",
   "lastOpenFiles": [
-    "Authentication.md",
-    "04 - Personal Notes/Wedding.md",
-    "04 - Personal Notes/Obsidian Notes Examples.md",
-    "Delayed Rewards.md",
-    "Binary Search.md",
-    "02 - Computer Science/03.04 - Coding Practices/Stacked PRs.md",
-    "Grafana.md",
-    "Templates/Default Template.md",
-    "01 - Cooking/Quesa Birria Tacos.md",
-    "01 - Cooking/Milk Bread.md",
-    "01 - Cooking/Lobster Mac and Cheese.md",
-    "01 - Cooking/Banh Bao.md",
     "Markov Decision Processes.md",
-    "Ruff Speed Comparison.png",
+    "Q-networks.md",
+    "Deep Reinforcement Learning.md",
+    "Reinforcement Learning.md",
+    "Temporal Difference Learning.md",
+    "Screenshot 2024-09-28 at 12.55.36 PM.png",
+    "Bellman Equation.md",
+    "Q-Function.md",
+    "Continuation.md",
+    "Policy Iteration.md",
+    "Backup MongoDB Database.md",
+    "wget.md",
+    "mongodump.md",
+    "Binary Search.md",
+    "Important Resources for Learning.md",
+    "mongorestore.md",
+    "Calculating LCM and GCD.md",
+    "Free Database Options for Personal Projects.md",
     "Exploiting AWS Lambda.md",
+    "Delayed Rewards.md",
+    "Databases.md",
+    "Non-relational Databases.md",
+    "Linting.md",
+    "Heroku.md",
     "Python Virtual Environments.md",
-    "Server Side Rendering.md",
-    "Untitled.md",
-    "README.md",
-    "Mongoose.md",
-    "Session-Based Authentication.md",
-    "Token-Based Authentication.md",
-    "Prisma vs Mongoose.md",
-    "ESLint.md",
-    "Server Actions vs Route Handlers.md",
-    "Server Actions.md",
-    "ORM.md",
+    "Relational Databases.md",
+    "04 - Personal Notes/Obsidian Notes Examples.md",
+    "personal-vault",
+    "Ruff Speed Comparison.png",
     "04 - Personal Notes",
     "Templates",
     "999 - Attachments",
@@ -212,7 +187,6 @@
     "02 - Computer Science/03.05 - Research Papesr",
     "02 - Computer Science/03.03 - DSA",
     "02 - Computer Science/03.02 - System Design",
-    "02 - Computer Science/03.01 - Technologies",
     "Untitled.canvas"
   ]
 }

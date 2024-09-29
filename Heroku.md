@@ -1,0 +1,1 @@
+A cloud platform as a service (PaaS) that allows developers to build, run, and manage applications on the cloud. Simplifies the process of deploying applications by automating infrastructure management and providing a set tools to scale, monitor, and manage.

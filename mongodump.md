@@ -1,0 +1,1 @@
+A utility that creates a binary export of a database's contents

@@ -1,0 +1,1 @@
+A utility that loads data from a binary database dump created by [[mongodump]]
