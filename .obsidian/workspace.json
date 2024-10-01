@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ad707d6c10a9b810",
+        "id": "d5d36a786901bde7",
         "type": "tabs",
         "children": [
           {
-            "id": "81e7dc7a2645f072",
+            "id": "a26f444408eb5391",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Important Resources for Learning.md",
+                "file": "docker-compose.yml.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Important Resources for Learning.md",
+                "file": "docker-compose.yml.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Important Resources for Learning.md",
+                "file": "docker-compose.yml.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Important Resources for Learning.md"
+                "file": "docker-compose.yml.md"
               }
             }
           }
@@ -148,8 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81e7dc7a2645f072",
+  "active": "a26f444408eb5391",
   "lastOpenFiles": [
+    "docker-compose.yml.md",
+    "Important Resources for Learning.md",
     "tsconfig.md",
     "Should we use TypeScript enums?.md",
     "TypeScript.md",
@@ -168,7 +169,6 @@
     "wget.md",
     "mongodump.md",
     "Binary Search.md",
-    "Important Resources for Learning.md",
     "mongorestore.md",
     "Calculating LCM and GCD.md",
     "Free Database Options for Personal Projects.md",
@@ -176,7 +176,6 @@
     "Delayed Rewards.md",
     "Databases.md",
     "Non-relational Databases.md",
-    "Linting.md",
     "personal-vault",
     "Ruff Speed Comparison.png",
     "04 - Personal Notes",
