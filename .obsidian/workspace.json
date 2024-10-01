@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "cb167e0cf5efcfaf",
+            "id": "b8e2a0cea376abe7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nginx.md",
+                "file": "Kubernetes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nginx.md",
+                "file": "Kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nginx.md",
+                "file": "Kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nginx.md"
+                "file": "Kubernetes.md"
               }
             }
           }
@@ -161,9 +161,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb167e0cf5efcfaf",
+  "active": "b8e2a0cea376abe7",
   "lastOpenFiles": [
     "docker-compose.yml.md",
+    "Kubernetes.md",
+    "Docker.md",
     "Nginx.md",
     "Important Resources for Learning.md",
     "tsconfig.md",
@@ -188,8 +190,6 @@
     "Calculating LCM and GCD.md",
     "Free Database Options for Personal Projects.md",
     "Exploiting AWS Lambda.md",
-    "Delayed Rewards.md",
-    "Databases.md",
     "personal-vault",
     "Ruff Speed Comparison.png",
     "04 - Personal Notes",
