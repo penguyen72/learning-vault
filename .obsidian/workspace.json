@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cb167e0cf5efcfaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nginx.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker-compose.yml.md",
+                "file": "Nginx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker-compose.yml.md",
+                "file": "Nginx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker-compose.yml.md"
+                "file": "Nginx.md"
               }
             }
           }
@@ -147,9 +161,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a26f444408eb5391",
+  "active": "cb167e0cf5efcfaf",
   "lastOpenFiles": [
     "docker-compose.yml.md",
+    "Nginx.md",
     "Important Resources for Learning.md",
     "tsconfig.md",
     "Should we use TypeScript enums?.md",
@@ -175,7 +190,6 @@
     "Exploiting AWS Lambda.md",
     "Delayed Rewards.md",
     "Databases.md",
-    "Non-relational Databases.md",
     "personal-vault",
     "Ruff Speed Comparison.png",
     "04 - Personal Notes",
