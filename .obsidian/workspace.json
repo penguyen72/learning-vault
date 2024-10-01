@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6d28e14b3ab54bfb",
+        "id": "ad707d6c10a9b810",
         "type": "tabs",
         "children": [
           {
-            "id": "a20c2a0c99f01ca4",
+            "id": "81e7dc7a2645f072",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q-networks.md",
+                "file": "tsconfig.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Q-networks.md",
+                "file": "tsconfig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Q-networks.md",
+                "file": "tsconfig.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q-networks.md"
+                "file": "tsconfig.md"
               }
             }
           }
@@ -147,10 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a20c2a0c99f01ca4",
+  "active": "81e7dc7a2645f072",
   "lastOpenFiles": [
-    "Markov Decision Processes.md",
+    "Untitled.md",
+    "tsconfig.md",
+    "TypeScript.md",
+    "Tensors.md",
     "Q-networks.md",
+    "Markov Decision Processes.md",
     "Deep Reinforcement Learning.md",
     "Reinforcement Learning.md",
     "Temporal Difference Learning.md",
@@ -172,10 +176,6 @@
     "Databases.md",
     "Non-relational Databases.md",
     "Linting.md",
-    "Heroku.md",
-    "Python Virtual Environments.md",
-    "Relational Databases.md",
-    "04 - Personal Notes/Obsidian Notes Examples.md",
     "personal-vault",
     "Ruff Speed Comparison.png",
     "04 - Personal Notes",
