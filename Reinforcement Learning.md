@@ -8,6 +8,9 @@ It focuses making decisions to maximize cumulative rewards
 - Robotics
 - Games
 
+#### References
+- [Spinning Up by OpenAI](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html?highlight=stochastic#policies)
+
 
 
 

@@ -1,0 +1,1 @@
+A class of [[Reinforcement Learning]] algorithms that estimates the value function to maximize the long-term cumulative reward.

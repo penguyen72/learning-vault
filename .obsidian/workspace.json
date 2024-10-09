@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d5d36a786901bde7",
+        "id": "cfe4407e7afd90eb",
         "type": "tabs",
         "children": [
           {
-            "id": "a26f444408eb5391",
+            "id": "7471e7efd88a16ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker-compose.yml.md",
+                "file": "Project 2 Observations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "b8e2a0cea376abe7",
+            "id": "012f89640f37437b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes.md",
+                "file": "Symbolic Links.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Learning",
+                "query": "Project 2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes.md",
+                "file": "Symbolic Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes.md",
+                "file": "Symbolic Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes.md"
+                "file": "Symbolic Links.md"
               }
             }
           }
@@ -161,37 +162,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8e2a0cea376abe7",
+  "active": "012f89640f37437b",
   "lastOpenFiles": [
+    "Project 2 Observations.md",
+    "Symbolic Links.md",
+    "figure_3.png",
+    "figure_2.png",
+    "Reinforcement Learning.md",
+    "Markov Decision Processes.md",
+    "figure_7.png",
+    "figure_6.png",
+    "figure_5.png",
+    "figure_4.png",
+    "Proximal Policy Optimization.md",
+    "Important Resources for Learning.md",
+    "figure3.png",
+    "figure2 1.png",
+    "figure2.png",
+    "figure1.png",
+    "logits.md",
+    "Stochastic Policies.md",
+    "Multivariate Gaussian Distribution.md",
+    "Policy.md",
+    "Neural Network.md",
+    "Deterministic Policies.md",
+    "Policy Gradient Methods.md",
+    "Deep Reinforcement Learning.md",
+    "Value-based Methods.md",
     "docker-compose.yml.md",
     "Kubernetes.md",
     "Docker.md",
     "Nginx.md",
-    "Important Resources for Learning.md",
     "tsconfig.md",
     "Should we use TypeScript enums?.md",
     "TypeScript.md",
     "Tensors.md",
     "Q-networks.md",
-    "Markov Decision Processes.md",
-    "Deep Reinforcement Learning.md",
-    "Reinforcement Learning.md",
     "Temporal Difference Learning.md",
-    "Screenshot 2024-09-28 at 12.55.36 PM.png",
     "Bellman Equation.md",
-    "Q-Function.md",
-    "Continuation.md",
-    "Policy Iteration.md",
-    "Backup MongoDB Database.md",
-    "wget.md",
-    "mongodump.md",
-    "Binary Search.md",
-    "mongorestore.md",
-    "Calculating LCM and GCD.md",
-    "Free Database Options for Personal Projects.md",
-    "Exploiting AWS Lambda.md",
     "personal-vault",
-    "Ruff Speed Comparison.png",
     "04 - Personal Notes",
     "Templates",
     "999 - Attachments",
