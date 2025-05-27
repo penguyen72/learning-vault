@@ -4,37 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "cfe4407e7afd90eb",
+        "id": "29c7858e11612b9a",
         "type": "tabs",
         "children": [
           {
-            "id": "7471e7efd88a16ef",
+            "id": "cdb58854fc35c3bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project 2 Observations.md",
+                "file": "Interview Questions 2025.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "012f89640f37437b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Symbolic Links.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Interview Questions 2025"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -53,8 +50,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -63,13 +63,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Project 2",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -77,11 +79,12 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symbolic Links.md",
+                "file": "non-functional requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +112,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for non-functional requirements"
             }
           },
           {
@@ -118,10 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Symbolic Links.md",
+                "file": "non-functional requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from non-functional requirements"
             }
           },
           {
@@ -132,7 +139,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -141,8 +150,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Symbolic Links.md"
-              }
+                "file": "non-functional requirements.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of non-functional requirements"
             }
           }
         ]
@@ -162,44 +173,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "012f89640f37437b",
+  "active": "cdb58854fc35c3bc",
   "lastOpenFiles": [
-    "Project 2 Observations.md",
-    "Symbolic Links.md",
-    "figure_3.png",
-    "figure_2.png",
-    "Reinforcement Learning.md",
-    "Markov Decision Processes.md",
-    "figure_7.png",
+    "Interview Questions.md",
+    "Interview Questions 2025.md",
+    "Binary Search.md",
+    "Vercel Interview.md",
+    "Skipped Leetcode Questions.md",
+    "Merkle Tree.md",
+    "Learning Vim.md",
+    "Snowflake Interview Process.md",
+    "knip.md",
+    "Learning Scala.md",
+    "minikube.md",
+    "TypeScript Error Handling.md",
+    "docker commands.md",
+    "Command Query Responsibility Segregation (CQRS).md",
+    "add all missing imports.md",
+    "Interesting Coursera Courses.md",
+    "Team Matching Questions.md",
+    "Regional Isolation.md",
+    "Python Virtual Environments.md",
+    "Untitled.md",
+    "go mod.md",
+    "Running Local Postgres Server.md",
+    "docker-compose.yml.md",
+    "Snowflake Phone 1.md",
+    "Chicken McNugget Theorem.md",
+    "Angular.md",
+    "Ruff Speed Comparison.png",
+    "Screenshot 2024-10-03 at 7.18.30 PM.png",
+    "Pasted image 20241003191751.png",
     "figure_6.png",
     "figure_5.png",
     "figure_4.png",
-    "Proximal Policy Optimization.md",
-    "Important Resources for Learning.md",
-    "figure3.png",
-    "figure2 1.png",
-    "figure2.png",
+    "figure_3.png",
+    "figure_2.png",
+    "figure_7.png",
     "figure1.png",
-    "logits.md",
-    "Stochastic Policies.md",
-    "Multivariate Gaussian Distribution.md",
-    "Policy.md",
-    "Neural Network.md",
-    "Deterministic Policies.md",
-    "Policy Gradient Methods.md",
-    "Deep Reinforcement Learning.md",
-    "Value-based Methods.md",
-    "docker-compose.yml.md",
-    "Kubernetes.md",
-    "Docker.md",
-    "Nginx.md",
-    "tsconfig.md",
-    "Should we use TypeScript enums?.md",
-    "TypeScript.md",
-    "Tensors.md",
-    "Q-networks.md",
-    "Temporal Difference Learning.md",
-    "Bellman Equation.md",
     "personal-vault",
     "04 - Personal Notes",
     "Templates",

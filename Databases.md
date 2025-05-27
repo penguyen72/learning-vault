@@ -2,4 +2,4 @@ An organized collection of structured or unstructured data that is stored and ma
 
 ### Types of Databases
 - [[Relational Databases]]
-- [[Non-relational Databases]]
+- [[Non-Relational Databases]]

@@ -1,0 +1,1 @@
+uses one [[websockets]] connection for all messages

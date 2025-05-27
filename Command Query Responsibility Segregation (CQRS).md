@@ -1,0 +1,1 @@
+Separating the responsibilitiesx  of real commands from write commands within an application

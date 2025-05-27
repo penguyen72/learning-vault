@@ -1,0 +1,1 @@
+Do you know how long the typical team matching process? I assumed that the team matching process was time sensitive and 

@@ -1,0 +1,16 @@
+- [ ] Google Cybersecurity
+- [ ] Meta Backend
+- [ ] Meta Frontend
+- [ ] Meta Fullstack
+- [ ] Deep Learning
+- [ ] Natural Language Processing
+- [ ] Machine Learning
+- [ ] Mathematics for Machine Learning and Data Science
+- [ ] Meta React Native
+- [ ] Meta iOS
+- [ ] Meta Android
+- [ ] TensorFlow Developer
+- [ ] Stanford Algorithms
+- [ ] Generative AI for Software Development
+- [ ] Machine Learning Engineer Google Cloud
+- [ ] Generative Adversarial Networks

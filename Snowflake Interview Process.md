@@ -1,0 +1,12 @@
+Interview Process
+- 5 Rounds IC2
+	- Early 2 Rounds Coding (Leetcode Style)
+		- 60 minutes
+		- up to 2 coding questions
+		- medium
+	- 3 Rounds
+		- 1 Hour Coding (Leetcode Style)
+		- 1 Hour System Design 
+			- Product for Product Teams
+			- Distributed Systems (Database Design) for General Backend
+		- 1 Hour Behavioral

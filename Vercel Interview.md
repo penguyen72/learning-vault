@@ -1,0 +1,34 @@
+Vercel Values
+- Sample Question
+	- Don't be too technical
+	- Tell me about a time you had a disagreement with a team member
+	- Same team energy
+	- Mistake you have made and how you fixed the mistake
+	- How did you do when you could not ship on time?
+		- how would you change it for next time
+		- what did you learn
+	- Know who u are talking to?
+	- How to reprioritize for customer needs?
+	- How collaboration to balance customer needs and engineering?
+	- Tell us about a time u hit a setback? How did you handle the situation
+	- What is the hardest thing u did on purpose?
+	- What is something you are proud of?
+		- Training plan
+		- Preparation plan
+- DSA
+	- solution vs syntax
+	- rustpad
+	- see how you approach the problem
+	- ask questions
+	- if it is not the best u can keep working on it
+	- Focus more on speed
+		- Do you want me to spend time on this?
+	- Make sure that you communication
+	- scenario based
+- Full Stack Challenge
+	- What environment?
+	- Whatever you setup can you explain.
+	- autocomplete
+	- Ask them what they want
+	- What do you want me to focus on
+	- approach it in parts
