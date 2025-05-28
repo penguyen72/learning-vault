@@ -11,10 +11,24 @@
             "id": "6df0b848239e724d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Centroid Decomposition.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Centroid Decomposition"
             }
           }
         ]
@@ -163,6 +177,7 @@
   },
   "active": "6df0b848239e724d",
   "lastOpenFiles": [
+    "Centroid Decomposition.md",
     "eslint and prettier not reading properly.md",
     "Interview Intro.md",
     "Interview Questions 2025.md",
@@ -189,7 +204,6 @@
     "Authorization.md",
     "websockets.md",
     "multiplexing.md",
-    "minikube.md",
     "figure_3.png",
     "figure_2.png",
     "figure_7.png",
